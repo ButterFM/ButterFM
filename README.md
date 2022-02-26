@@ -1,2 +1,3 @@
-https:jandan.net
-https:ithome.com
+- https:jandan.net
+
+- https:ithome.com
